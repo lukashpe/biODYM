@@ -1,0 +1,10 @@
+# Build docker image
+docker build -t does-this-work .
+
+
+# Run docker container with image
+docker run -p 8888:8888 -v $(pwd):/home/jovyan/ does-this-work
+
+
+# Access JupyterLab
+http://localhost:8888
