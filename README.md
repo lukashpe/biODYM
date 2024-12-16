@@ -1,2 +1,19 @@
 # biODYM modelling template
-Case-study-based template adapting the [modelling framework ODYM](https://github.com/IndEcol/ODYM) for dynamic MFA in organic waste management. In the repository, you can find the biODYM as Jupyter Notebook, an Excel template for input data, a quick-start guide and a copy of ODYM (ver. as of 27.11.24) that is used in the modelling template. Also, case study results can be found as Excel export along with case study calculations done in Excel for comparison. The install folder contains the requirements.txt file and an anaconda environment file for better reproducibility.
+Case-study-based template adapting the [modelling framework ODYM](https://github.com/IndEcol/ODYM) for dynamic MFA in organic waste management. In the repository, you can find:
+
+
+Modules:
+- Copy of ODYM modules (ver. as of 27.11.24), that are used in the template
+- biODYM add-on modules for interactive sankey diagrams, stock plots and Excel export
+
+Template:
+- biODYM modeling template as Jupyter Notebook
+- Excel template for data input
+- Case study results as Excel export along with hand calculations in Excel for comparison
+
+Instructions and installation:
+- Quick-start guide
+- Requirements.txt and installation files for anaconda or docker
+
+  
+
